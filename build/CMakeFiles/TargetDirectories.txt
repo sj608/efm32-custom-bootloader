@@ -1,0 +1,3 @@
+/Users/sj/Documents/projects/efm32-custom-bootloader/build/CMakeFiles/EFM-Blink.axf.dir
+/Users/sj/Documents/projects/efm32-custom-bootloader/build/CMakeFiles/edit_cache.dir
+/Users/sj/Documents/projects/efm32-custom-bootloader/build/CMakeFiles/rebuild_cache.dir
